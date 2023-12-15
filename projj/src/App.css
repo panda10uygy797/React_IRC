@@ -1,0 +1,10 @@
+.App {
+  text-align: center;
+  margin-left: 35%;
+  margin-top: 8%;
+}
+body{
+  background-image: url("./Assets/asset-02.jpg");
+  background-repeat: repeat-x;
+  background-position: center;
+}
